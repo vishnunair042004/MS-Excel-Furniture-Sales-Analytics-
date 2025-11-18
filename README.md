@@ -124,7 +124,7 @@ To analyze end-to-end retail furniture operations using Excel and provide an int
 
 <img width="1350" height="655" alt="image" src="https://github.com/user-attachments/assets/137abbeb-1993-4641-9fd1-d2bed2d43dad" />
 <img width="1009" height="579" alt="Screenshot 2025-11-18 213933" src="https://github.com/user-attachments/assets/3accc7d2-15df-4b6a-9ee7-ba305408f995" />
-```
+
 
 
 

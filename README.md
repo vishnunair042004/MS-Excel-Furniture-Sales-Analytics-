@@ -122,10 +122,11 @@ To analyze end-to-end retail furniture operations using Excel and provide an int
 
 ## 📸 Screenshots
 
-*(Include the uploaded dashboard images here)*
+<img width="1345" height="649" alt="image" src="https://github.com/user-attachments/assets/bf9013ce-4bbd-40e3-80ff-6f4653b2b3f9" />
+
 
 ```
-<img width="1345" height="649" alt="image" src="https://github.com/user-attachments/assets/3beff32b-515c-4fb6-97ed-bb2f896453e7" />
+
 
 
 ---

@@ -5,7 +5,7 @@
 ## 📁 Project Overview
 
 This project presents an **interactive Excel dashboard** built to analyze furniture sales performance across various product categories, delivery statuses, brands, payments, and customer experience indicators.
-Using a structured dataset (sample shown below) and Excel’s analytical features, the dashboard delivers meaningful business insights through dynamic charts, slicers, and KPIs.
+Using a structured dataset and Excel’s analytical features, the dashboard delivers meaningful business insights through dynamic charts, slicers, and KPIs.
 
 The goal of the project is to demonstrate skills in **data cleaning, data modeling, visualization, and business analytics using Excel**.
 
@@ -118,13 +118,6 @@ To analyze end-to-end retail furniture operations using Excel and provide an int
 
 ---
 
-## 📥 How to Use
-
-1. Download the Excel file from this repository
-2. Open it using **Excel 2016 or later** (best performance with Excel 365)
-3. Use slicers to interact with the dashboard
-4. Explore each visualization panel for insights
-
 ---
 
 ## 📸 Screenshots
@@ -132,9 +125,8 @@ To analyze end-to-end retail furniture operations using Excel and provide an int
 *(Include the uploaded dashboard images here)*
 
 ```
-![](dashboard-screenshot.png)
-![](data-preview.png)
-```
+<img width="1345" height="649" alt="image" src="https://github.com/user-attachments/assets/3beff32b-515c-4fb6-97ed-bb2f896453e7" />
+
 
 ---
 
@@ -150,15 +142,7 @@ To analyze end-to-end retail furniture operations using Excel and provide an int
 ## 🙌 Author
 
 **Vishnu Nair**
-Data Analyst | Excel • SQL • Power BI
-Passionate about turning data into meaningful stories.
+
 
 ---
 
-If you want, I can also:
-✔ format this README with icons & color badges
-✔ add GitHub repository structure section
-✔ help you upload files to GitHub the correct way
-✔ generate a project description for LinkedIn
-
-Just tell me!
